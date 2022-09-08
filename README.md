@@ -29,6 +29,6 @@ This dictionary was built using the [PyDictionary](https://pypi.org/project/PyDi
 - To use in an IDE, download the file or type: `gh repo clone alexandertomsovic/Dictionary`
 
 ![](https://img.shields.io/static/v1?label=Words+Queried&style=flat-square&message=763,382&color=48d4c6)
-![](https://img.shields.io/static/v1?label=Words+Added+Today&style=flat-square&message=370,382&color=c4341d)
+![](https://img.shields.io/static/v1?label=Words+Added+Today&style=flat-square&message=370&color=c4341d)
 ![](https://img.shields.io/static/v1?label=Most+Searched_Word&style=flat-square&message=vaccine&color=e60ed7)
 
