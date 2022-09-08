@@ -26,4 +26,5 @@ This dictionary was built using the [PyDictionary](https://pypi.org/project/PyDi
 ## Using The Dictionary: (pre public release)
 - You can access the browser version for the dictionary via my [**Replit**.](https://replit.com/@AlexTomsovic/Dictionary#main.py)
 - To access my Word Of The Day Bot (inspired by this project, visit its  [**Github Page**](https://github.com/alexandertomsovic/WordOfTheDay)
-- To use in an IDE, download the file or type: 'gh repo clone alexandertomsovic/Dictionary'
+- To use in an IDE, download the file or type: 
+'gh repo clone alexandertomsovic/Dictionary'
