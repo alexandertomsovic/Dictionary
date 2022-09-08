@@ -1,7 +1,7 @@
 # Dictionary by A.R.T.
 ![](https://img.shields.io/static/v1?label=Dictionary+Status&style=flat-square&message=Active&color=brightgreen)
 
-This dictionary was built using the [PyDictionary](https://pypi.org/project/PyDictionary/) library for Python 3.9. Search queries can return almost every word from Merriam-Webster. This is the final version that I found to work best best after working with the Wordnik API, Dictionary.com API, and more. You can access the dictionary on your browser via the Dictionaries [Replit](https://replit.com/@AlexTomsovic/Dictionary#main.py) page.
+This dictionary was built using the [**PyDictionary**](https://pypi.org/project/PyDictionary/) library for Python 3.9. The dictionary search queries return almost every word from Merriam-Webster. This is the final version that I found to work best best after working with the Wordnik API, Dictionary.com API, and more. You can access the dictionary on your browser via the Dictionaries [**Replit**](https://replit.com/@AlexTomsovic/Dictionary#main.py) page. I am currently working on a much more advanced WhatsApp version of this dictionary! 
 
 ## Features
 - 99.92% word composition from Merriam-Webster
