@@ -1,20 +1,18 @@
-# Dictionary by A.R.T. | 
+# Dictionary by A.R.T.
 ![](https://img.shields.io/static/v1?label=Dictionary+Status&style=flat-square&message=Active&color=brightgreen)
 
-This dictionary was built using the [PyDictionary](https://pypi.org/project/PyDictionary/) library for Python 3.9. Search queries can return almost every word from Merriam-Webster   
+This dictionary was built using the [PyDictionary](https://pypi.org/project/PyDictionary/) library for Python 3.9. Search queries can return almost every word from Merriam-Webster. This is the final version that I found to work best best after working with the Wordnik API, Dictionary.com API, and more. You can access the dictionary on your browser via the Dictionaries [Replit](https://replit.com/@AlexTomsovic/Dictionary#main.py) page.
 
-![](https://img.shields.io/static/v1?label=BlockTradeAI+Beta&style=flat-square&message=Late+2022&color=ff6600)
+## Features
+- 99.92% word composition from Merriam-Webster
+- Part of Speech text
+- Color coded terminal data
+- Unlimited queries 
+- Word pronounciation (Coming Soon)
 
-## Recent Updates
-- Added Litecoin (LTC) Tracking
-- Added Tether (USDT) Tracking
-- Added 24 Hour price % change
-- Added BTC SMS updates
-- Created a website for [**BlockTrade AI**](www.blocktradeAI.com)
-- Added an [**SMS updating replit**](https://replit.com/@AlexTomsovic/CrytoPriceCheckWithSMS#main.py)
 
 ## Creator
-- BlockTrade AI and the Crypto Checking code was developed by [**Alexander Tomsovic**](github.com/alexandertomsovic)
+- This dictionary was developed by [**Alexander Tomsovic**](github.com/alexandertomsovic)
 - Engineered by A.R.T. LLC
 
 <a target="_blank" href="https://alextomsovic1.wixsite.com/my-site">
@@ -25,14 +23,7 @@ This dictionary was built using the [PyDictionary](https://pypi.org/project/PyDi
 </picture>
 </a>
 
-## Features
-- Update Ticker
-- Color Coded Price adjustments
-- ETH / BTC / XRP / USDT / LTC price tracking
-- BTC price update via SMS
-- SMS message timer
-
-## Using BlockTrade AI: (pre public release)
-- You can access the browser version for crypto price checking (No SMS updates) via my [**Replit**.](https://replit.com/@AlexTomsovic/cryptoprices#main.py)
-- To access the browser version with SMS updates, visit my [**Other Replit**](https://replit.com/@AlexTomsovic/CrytoPriceCheckWithSMS#main.py)
+## Using The Dictionary: (pre public release)
+- You can access the browser version for the dictionary via my [**Replit**.](https://replit.com/@AlexTomsovic/Dictionary#main.py)
+- To access my Word Of The Day Bot (inspired by this project, visit its  [**Github Page**](https://github.com/alexandertomsovic/WordOfTheDay)
 - To use in an IDE, download the file or type:
